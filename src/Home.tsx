@@ -509,7 +509,7 @@ const Home = (props: HomeProps) => {
                         fontWeight: 'bold',
                       }}
                     >
-                      {`768`}
+                      {`718`}
                     </Typography>
                   </Grid>
                   <Grid item xs={4}>
